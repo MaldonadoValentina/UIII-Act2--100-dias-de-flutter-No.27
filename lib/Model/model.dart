@@ -42,7 +42,7 @@ List<Item> peluchesShopItems() {
       height: 250,
     ),
     Item(
-      myItems: false,
+      myItems: true,
       title: 'Mascota Aster',
       description:
           " ¡Conoce a tu nueva y adorable mascota de peluche Aster! Su diseño único y suave textura te conquistarán.",
@@ -68,7 +68,7 @@ List<Item> peluchesShopItems() {
       height: 250,
     ),
     Item(
-      myItems: false,
+      myItems: true,
       title: 'Muñeco Yakumo',
       description:
           ' Suave y adorable, igaul que Yakumo, este peluche de personaje es ideal para los coleccionistas y para añadir un toque de diversión a cualquier habitación.',
@@ -94,7 +94,7 @@ List<Item> peluchesShopItems() {
       height: 250,
     ),
     Item(
-      myItems: false,
+      myItems: true,
       title: 'Muñeco Olivine',
       description:
           'Este peluche de nuestro amado padre Oliver con vestimenta detallada es un tesoro para tu colección. ¡Ideal para exhibir o llevar contigo!',
@@ -107,7 +107,7 @@ List<Item> peluchesShopItems() {
       height: 200,
     ),
     Item(
-      myItems: false,
+      myItems: true,
       title: 'Mascota Topper',
       description:
           'Nuestro amigo Topper de peluche es redonda y expresivo como el verdadero, perfecta para coleccionar o como un divertido elemento decorativo.',

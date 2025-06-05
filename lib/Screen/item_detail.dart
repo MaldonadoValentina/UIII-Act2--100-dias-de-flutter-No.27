@@ -150,7 +150,7 @@ class ItemsDetails extends StatelessWidget {
                                 height: 50,
                                 width: 50,
                                 decoration: BoxDecoration(
-                                  color: Colors.grey[100],
+                                  color: const Color.fromARGB(255, 255, 255, 255),
                                   borderRadius: const BorderRadius.only(
                                     topRight: Radius.circular(15),
                                     bottomRight: Radius.circular(15),

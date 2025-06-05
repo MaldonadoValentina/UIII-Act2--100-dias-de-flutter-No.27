@@ -103,7 +103,7 @@ class ShopHomePageState extends State<ShopHomePage> {
                                 decoration: BoxDecoration(
                                     color: item.myItems == true
                                         ? item.color
-                                        : Colors.transparent,
+                                        : Colors.blueGrey,
                                     border: Border(
                                       top: BorderSide(
                                           width: 2, color: item.color),
